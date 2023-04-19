@@ -1,0 +1,45 @@
+body{
+  
+   
+    
+}
+
+.container{
+
+    height:250px;
+    width:660px;
+  length:350px;
+    margin: 250px;
+   display: grid; 
+   justify-items:center;
+   align-items :center;
+   background-color:white;
+   border:  solid red;
+   border-radius:-200px;
+}
+
+.button1{
+
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border: black;
+  }
+
+  .google {
+    margin-right: 90px;
+    padding-top: 10px;
+  }
+
+  .facebook {
+    margin-left: 90px;
+    /* padding-top: 15px; */
+    position: relative;
+    top: -20px;
+  }
+
+  .login{
+
+  }
+
+
